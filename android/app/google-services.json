@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "912423152676",
+    "project_id": "coach-ab49b",
+    "storage_bucket": "coach-ab49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912423152676:android:12e675feb499dba6623cb1",
+        "android_client_info": {
+          "package_name": "com.example.bussines_coach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912423152676-4jniamtm936jm79pgmjp3evauc61ugr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGhKcwPMCcLf2LqZS0s2ZK7KeSSxUe18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912423152676-4jniamtm936jm79pgmjp3evauc61ugr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912423152676-21svn57vc4kekqoocb051ghlb2037f5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bussinesCoach"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
